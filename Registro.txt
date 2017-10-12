@@ -1,0 +1,16 @@
+El promedio del alumno: Emmanuel hernandez Hernandez es: 87.5
+El promedio del alumno: Miguel de la Cruz Cruz es: 87.5
+El promedio del alumno: Aracely Santiago Fernando es: 92.5
+El promedio del alumno: Dalia Azucena Hernadez Hernandez es: 84.5
+El promedio del alumno: Felix Jimenez Martinez es: 92.0
+El promedio del alumno: Carmen Lugo Garcia es: 97.5
+El promedio del alumno: Oscar Torres sosa es: 88.5
+El promedio del alumno: Frida Estefania Santiago es: 93.5
+
+El promedio general del grupo de ingles es: 91.0
+El promedio del alumno: Abad Antonio Antonio es: 88.5
+
+El promedio general del grupo de Matematicas discretas es: 88.5
+El promedio del alumno: jose Manuel Morales Hernandez es: 75.0
+
+El promedio general del grupo de Espa�ol es: 75.0

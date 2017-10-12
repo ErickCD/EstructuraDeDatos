@@ -1,0 +1,8 @@
+
+*****Parametros de salida de Catalan*****
+
+
+El numero de catalan de: 2 es: 2
+El numero de catalan de: 3 es: 5
+El numero de catalan de: 4 es: 14
+El numero de catalan de: 5 es: 42

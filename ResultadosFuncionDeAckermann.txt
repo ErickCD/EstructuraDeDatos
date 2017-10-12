@@ -1,0 +1,17 @@
+
+*******    FUNCION DE ACKERMANN   *******
+
+***********  Resultados  **************
+
+El resultado de 0 y 1 es:	2
+
+El resultado de 0 y 2 es:	3
+
+El resultado de 0 y 3 es:	4
+
+El resultado de 0 y 4 es:	5
+
+El resultado de 0 y 0 es:	1
+
+
+*****     Finalizado     *******

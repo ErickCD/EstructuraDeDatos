@@ -1,0 +1,12 @@
+Sistemas:carr
+Felix Jimenez Martinez*nomb100.0+cal100.0+cal80.0+calEmmanuel Hernandez Hernandez*nomb90.0+cal98.0+cal99.0+cal
+Gestion Empresarial:carr
+Carmen Itzel Lugo*nomb90.0+cal90.0+cal100.0+calDiana Estela Meraz Escalante*nomb100.0+cal100.0+cal100.0+cal
+Sistemas:carr
+Felix Jimenez Martinez*nomb100.0+cal100.0+cal80.0+calEmmanuel Hernandez Hernandez*nomb90.0+cal98.0+cal99.0+cal
+Gestion Empresarial:carr
+Carmen Itzel Lugo*nomb90.0+cal90.0+cal100.0+calDiana Estela Meraz Escalante*nomb100.0+cal100.0+cal100.0+cal
+Petrolera:t
+Abad Antonio Antonio,t100.0;t
+Petrolera:t
+Abad Antonio Antonio,t100.0;t
